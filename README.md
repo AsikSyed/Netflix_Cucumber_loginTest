@@ -10,7 +10,7 @@
 mvn clean install
 
 ```
-![2021-04-25_1-00-34](https://user-images.githubusercontent.com/48891202/115970077-05f12580-a562-11eb-8ceb-05baeabf48c8.png)
 
+![image](https://user-images.githubusercontent.com/77289022/135159021-b0e923d8-1ec3-4407-a839-86819be02e3e.png)
 
 
